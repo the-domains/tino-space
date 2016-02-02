@@ -1,0 +1,28 @@
+name: Tino Space
+favicon: null
+layout_spectrum: 0.04952301271259785
+typography_spectrum: 0.8242401489987969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24184886482544243
+  lightness: 0.3090636602137238
+  saturation: 0.36573946522548795
+  rhythmicContrast: 0.21509157284162939
+purpose: []
