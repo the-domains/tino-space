@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tino Space]]></title>
         <description><![CDATA[Tino Space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tino-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 09:51:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 09:51:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tino-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Tino Space!  Please join us and take part in creating innovative mobile promotions. We hope you'll like it.</p>]]></description>
+            <link>https://thegrid.ai/tino-space/375859e4-82d0-4937-a9d8-54ec0e29d324/index.html</link>
+            <guid isPermaLink="false">375859e4-82d0-4937-a9d8-54ec0e29d324</guid>
+            <pubDate>Tue, 02 Feb 2016 09:50:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d4e083-74b4-4d2b-a03f-63bd78620124.png">]]></description>
-            <link>undefined09af4859-8ff5-4219-affc-96be7b695679/index.html</link>
+            <link>https://thegrid.ai/tino-space/09af4859-8ff5-4219-affc-96be7b695679/index.html</link>
             <guid isPermaLink="false">09af4859-8ff5-4219-affc-96be7b695679</guid>
             <pubDate>Tue, 02 Feb 2016 09:49:35 GMT</pubDate>
         </item>
