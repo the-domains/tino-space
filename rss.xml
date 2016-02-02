@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The new age in interactive chat promotions]]></title>
         <description><![CDATA[The new age in interactive chat promotions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tino-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 15:01:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 15:11:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tino-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc7d314b-2803-4e17-bf6f-dbd8236ca09b.jpg">]]></description>
+            <link>https://thegrid.ai/tino-space/abab1156-28b5-410f-9321-5013cd0e8974/index.html</link>
+            <guid isPermaLink="false">abab1156-28b5-410f-9321-5013cd0e8974</guid>
+            <pubDate>Tue, 02 Feb 2016 15:10:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/757547e3-bd23-4388-8286-e0cceefd7cc1.png">]]></description>
-            <link>undefined7bf414f7-1174-4b58-9c4f-4f7d9063ae5f/index.html</link>
+            <link>https://thegrid.ai/tino-space/7bf414f7-1174-4b58-9c4f-4f7d9063ae5f/index.html</link>
             <guid isPermaLink="false">7bf414f7-1174-4b58-9c4f-4f7d9063ae5f</guid>
             <pubDate>Tue, 02 Feb 2016 15:01:46 GMT</pubDate>
         </item>
