@@ -4,8 +4,15 @@
         <description><![CDATA[Tino Space: The new age in interactive chat promotions]]></description>
         <link>https://thegrid.ai/tino-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 15:03:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tino-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twitter Publish]]></title>
+            <description><![CDATA[<article><h1>Twitter Publish</h1></article>]]></description>
+            <link>https://publish.twitter.com/</link>
+            <guid isPermaLink="false">1cddfe9d-c82a-403e-9b3a-fee759e0bb4d</guid>
+            <pubDate>Fri, 18 Mar 2016 15:03:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nicole Moudaber - Own by Nicole Moudaber]]></title>
             <description><![CDATA[<article><h1>Nicole Moudaber - Own by Nicole Moudaber</h1><p>The Drumcode A-Sides compilation is quickly becoming an important fixture within the techno world as a go to compilation for the hottest tracks. Mixing both highly experienced and new artists helps to bring a new dimension to the compilation that makes it such a special array of tracks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/608df86bebc6ef79fec5313dc52e9916566cd482.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tino-space/3f18282e-9255-41e5-8049-1e5d17ea8915/index.html</link>
             <guid isPermaLink="false">3f18282e-9255-41e5-8049-1e5d17ea8915</guid>
             <pubDate>Mon, 22 Feb 2016 16:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Till von Sein]]></title>
-            <description><![CDATA[<article><h1>Till von Sein</h1><p>Till von Sein's Upcoming Gigs Fri 05 Feb, 16 Luna Club, Kiel, Germany Sat 06 Feb, 16 Baalsaal, Hamburg, Germany Fri 12 Feb, 16 Tout Club, Volos, Greece Sat 13 Feb, 16 Harry Klein, München, Germany See the full listing here http://gigs.gigatools.com/u/TVS Powered by GigaTools Alongside his trademark sound, Till von Sein exudes an aura of noble grandeur mixed with the genuine enthusiasm of a child with a favourite toy when he's busy in the DJ booth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb2fc35dd7f90693d7fe860ed69ddf018964dcd7.jpg"></article>]]></description>
-            <link>https://soundcloud.com/tillvonsein</link>
-            <guid isPermaLink="false">01e95ddf-a30e-406c-881a-28536c1d1a42</guid>
-            <pubDate>Tue, 02 Feb 2016 15:49:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
