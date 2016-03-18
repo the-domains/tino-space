@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Drumcode A-Sides compilation is quickly becoming an important fixture within the techno world as a go to compilation for the hottest tracks. Mixing both highly experienced and new artists helps to bring a new dimension to the compilation that makes it such a special array of tracks.
-datePublished: '2016-03-18T12:44:32.789Z'
-dateModified: '2016-03-18T12:44:21.689Z'
+datePublished: '2016-03-18T12:57:31.245Z'
+dateModified: '2016-03-18T12:44:40.094Z'
 author:
   - name: Nicole Moudaber
     url: 'http://soundcloud.com/nicolemoudaber'
