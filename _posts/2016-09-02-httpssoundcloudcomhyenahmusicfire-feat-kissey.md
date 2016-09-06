@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://soundcloud.com/hyenahmusic/fire-feat-kissey'
-datePublished: '2016-09-02T16:20:11.439Z'
-dateModified: '2016-09-02T16:20:01.980Z'
-authors: []
-publisher: {}
+datePublished: '2016-09-02T16:26:27.684Z'
+dateModified: '2016-09-02T16:26:16.660Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-httpssoundcloudcomhyenahmusicfire-feat-kissey.md
+authors: []
+publisher: {}
+starred: false
 url: httpssoundcloudcomhyenahmusicfire-feat-kissey/index.html
 _type: Article
 
