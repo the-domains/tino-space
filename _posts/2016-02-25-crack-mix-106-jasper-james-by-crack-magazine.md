@@ -52,9 +52,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/crackmagazine/crack-mix-106-jasper-james'
 title: Crack Mix 106 - Jasper James by Crack Magazine
-datePublished: '2016-09-02T16:53:56.891Z'
-dateModified: '2016-09-02T16:53:56.378Z'
+datePublished: '2016-09-02T16:54:15.550Z'
+dateModified: '2016-09-02T16:54:14.516Z'
 sourcePath: _posts/2016-02-25-crack-mix-106-jasper-james-by-crack-magazine.md
+via: {}
 starred: false
 inFeed: true
 hasPage: false
