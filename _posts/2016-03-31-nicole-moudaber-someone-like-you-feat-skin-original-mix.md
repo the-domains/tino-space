@@ -6,9 +6,12 @@ isBasedOnUrl: 'https://soundcloud.com/moodrecords/nicole-moudaber-someone-like'
 inLanguage: null
 starred: false
 keywords: []
-description: 'MOOD Records will provide an exploration in the sounds both produced and supported by the DJ/Producer. Taking in influences from house and techno, and the many amalgamations between the two ends of th'
-datePublished: '2016-03-31T16:48:06.804Z'
-dateModified: '2016-03-31T16:47:50.813Z'
+description: >-
+  MOOD Records will provide an exploration in the sounds both produced and
+  supported by the DJ/Producer. Taking in influences from house and techno, and
+  the many amalgamations between the two ends of th
+datePublished: '2016-09-02T16:41:59.634Z'
+dateModified: '2016-09-02T16:41:59.136Z'
 author:
   - name: Mood Records Official
     url: 'http://soundcloud.com/moodrecords'
@@ -51,15 +54,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Nicole Moudaber - Someone Like You feat. Skin (Original Mix) by Mood Records Official
+title: >-
+  Nicole Moudaber - Someone Like You feat. Skin (Original Mix) by Mood Records
+  Official
+sourcePath: _posts/2016-03-31-nicole-moudaber-someone-like-you-feat-skin-original-mix.md
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-31-nicole-moudaber-someone-like-you-feat-skin-original-mix.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
