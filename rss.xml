@@ -4,8 +4,15 @@
         <description><![CDATA[Tino Space: The new age in interactive chat promotions]]></description>
         <link>https://thegrid.ai/tino-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 15:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 16:06:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tino-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c41521715de105541979b2a48d38334ed0b44fde.jpg" alt="This is our Tetraktis moto ;-)">]]></description>
+            <link>https://thegrid.ai/tino-space/6807d443-da1c-42c3-ac93-00537ce67c07/index.html</link>
+            <guid isPermaLink="false">6807d443-da1c-42c3-ac93-00537ce67c07</guid>
+            <pubDate>Fri, 02 Sep 2016 16:05:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19bed9b-0ba5-41ce-ab02-ea2f525b2284.png" alt="Diva">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/757547e3-bd23-4388-8286-e0cceefd7cc1.png">]]></description>
             <link>https://thegrid.ai/tino-space/7bf414f7-1174-4b58-9c4f-4f7d9063ae5f/index.html</link>
             <guid isPermaLink="false">7bf414f7-1174-4b58-9c4f-4f7d9063ae5f</guid>
-            <pubDate>Fri, 02 Sep 2016 15:41:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9a47a07-b324-497c-9d6e-97266ce606e0.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/tino-space/f03f3fc0-f149-4c88-a6f3-a666958f518a/index.html</link>
-            <guid isPermaLink="false">f03f3fc0-f149-4c88-a6f3-a666958f518a</guid>
             <pubDate>Fri, 02 Sep 2016 15:41:03 GMT</pubDate>
         </item>
     </channel>
