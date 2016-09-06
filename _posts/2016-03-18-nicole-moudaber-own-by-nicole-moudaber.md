@@ -6,9 +6,13 @@ isBasedOnUrl: 'https://soundcloud.com/nicolemoudaber/nicole-moudaber-own-origina
 inLanguage: null
 starred: false
 keywords: []
-description: The Drumcode A-Sides compilation is quickly becoming an important fixture within the techno world as a go to compilation for the hottest tracks. Mixing both highly experienced and new artists helps to bring a new dimension to the compilation that makes it such a special array of tracks.
-datePublished: '2016-04-07T09:36:17.167Z'
-dateModified: '2016-04-07T09:36:16.657Z'
+description: >-
+  The Drumcode A-Sides compilation is quickly becoming an important fixture
+  within the techno world as a go to compilation for the hottest tracks. Mixing
+  both highly experienced and new artists helps to bring a new dimension to the
+  compilation that makes it such a special array of tracks.
+datePublished: '2016-09-02T16:29:33.017Z'
+dateModified: '2016-09-02T16:29:29.998Z'
 author:
   - name: Nicole Moudaber
     url: 'http://soundcloud.com/nicolemoudaber'
@@ -53,7 +57,6 @@ app_links:
     type: ios
 title: Nicole Moudaber - Own by Nicole Moudaber
 sourcePath: _posts/2016-03-18-nicole-moudaber-own-by-nicole-moudaber.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
