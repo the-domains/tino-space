@@ -55,11 +55,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/hyenahmusic/fire-feat-kissey'
 title: Fire feat. Kissey by HYENAH
-datePublished: '2016-09-02T16:28:49.234Z'
-dateModified: '2016-09-02T16:28:34.376Z'
+datePublished: '2016-09-02T16:29:33.015Z'
+dateModified: '2016-09-02T16:29:29.998Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-fire-feat-kissey-by-hyenah.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
