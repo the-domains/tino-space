@@ -20,7 +20,13 @@ keywords:
   - gigs
   - fri
   - enthusiasm
-description: "Till von Sein's Upcoming Gigs Fri 05 Feb, 16 Luna Club, Kiel, Germany Sat 06 Feb, 16 Baalsaal, Hamburg, Germany Fri 12 Feb, 16 Tout Club, Volos, Greece Sat 13 Feb, 16 Harry Klein, München, Germany See the full listing here http://gigs.gigatools.com/u/TVS Powered by GigaTools Alongside his trademark sound, Till von Sein exudes an aura of noble grandeur mixed with the genuine enthusiasm of a child with a favourite toy when he's busy in the DJ booth."
+description: >-
+  Till von Sein's Upcoming Gigs Fri 05 Feb, 16 Luna Club, Kiel, Germany Sat 06
+  Feb, 16 Baalsaal, Hamburg, Germany Fri 12 Feb, 16 Tout Club, Volos, Greece Sat
+  13 Feb, 16 Harry Klein, München, Germany See the full listing here
+  http://gigs.gigatools.com/u/TVS Powered by GigaTools Alongside his trademark
+  sound, Till von Sein exudes an aura of noble grandeur mixed with the genuine
+  enthusiasm of a child with a favourite toy when he's busy in the DJ booth.
 inLanguage: en
 app_links:
   - type: ios
@@ -35,10 +41,10 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/tillvonsein'
 title: Till von Sein
-datePublished: '2016-02-02T15:49:48.041Z'
-dateModified: '2016-02-02T15:49:00.581Z'
+datePublished: '2016-09-02T16:54:15.553Z'
+dateModified: '2016-09-02T16:54:14.516Z'
 sourcePath: _posts/2016-02-02-till-von-sein.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
