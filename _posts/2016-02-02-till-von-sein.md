@@ -41,9 +41,10 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/tillvonsein'
 title: Till von Sein
-datePublished: '2016-09-02T16:54:15.553Z'
-dateModified: '2016-09-02T16:54:14.516Z'
+datePublished: '2016-09-02T16:55:12.154Z'
+dateModified: '2016-09-02T16:55:11.746Z'
 sourcePath: _posts/2016-02-02-till-von-sein.md
+via: {}
 starred: false
 inFeed: true
 hasPage: false
