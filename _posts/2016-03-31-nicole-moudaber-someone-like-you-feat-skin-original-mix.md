@@ -4,14 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://soundcloud.com/moodrecords/nicole-moudaber-someone-like'
 inLanguage: null
-starred: false
 keywords: []
 description: >-
   MOOD Records will provide an exploration in the sounds both produced and
   supported by the DJ/Producer. Taking in influences from house and techno, and
   the many amalgamations between the two ends of th
-datePublished: '2016-09-02T16:41:59.634Z'
-dateModified: '2016-09-02T16:41:59.136Z'
+datePublished: '2016-09-02T16:54:15.352Z'
+dateModified: '2016-09-02T16:54:14.516Z'
 author:
   - name: Mood Records Official
     url: 'http://soundcloud.com/moodrecords'
@@ -64,6 +63,8 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+via: {}
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
