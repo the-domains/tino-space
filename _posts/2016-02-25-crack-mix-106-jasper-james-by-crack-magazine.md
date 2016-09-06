@@ -10,7 +10,9 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 keywords: []
-description: 'More information & download here: http://crackmagazine.net/audio/mixprofile/jasper-james/'
+description: >-
+  More information & download here:
+  http://crackmagazine.net/audio/mixprofile/jasper-james/
 app_links:
   - type: ios
     namespace: ai
@@ -50,10 +52,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/crackmagazine/crack-mix-106-jasper-james'
 title: Crack Mix 106 - Jasper James by Crack Magazine
-datePublished: '2016-02-25T10:30:28.073Z'
-dateModified: '2016-02-25T10:28:16.918Z'
+datePublished: '2016-09-02T16:53:56.891Z'
+dateModified: '2016-09-02T16:53:56.378Z'
 sourcePath: _posts/2016-02-25-crack-mix-106-jasper-james-by-crack-magazine.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
